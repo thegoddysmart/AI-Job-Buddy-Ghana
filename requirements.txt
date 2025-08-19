@@ -1,0 +1,12 @@
+# Core app
+streamlit==1.48.1
+pandas==2.3.1
+numpy==2.3.2
+
+# Machine learning / NLP
+scikit-learn==1.5.2
+transformers==4.44.2
+
+# Optional (only needed if you want OpenVINO engine working in Streamlit Cloud)
+openvino==2024.4.0
+openvino-dev==2024.4.0
